@@ -9,7 +9,8 @@ CachyOS Noctalia edition's **Lua-native** Hyprland config.
 
 ## Screenshots
 
-<!-- add screenshots here -->
+![Desktop](docs/desktop.png)
+![System info](docs/system-info.png)
 
 ## What's inside
 
