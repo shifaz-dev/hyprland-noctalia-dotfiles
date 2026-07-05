@@ -39,8 +39,8 @@ Highlights:
 ## Install
 
 ```sh
-git clone https://github.com/shifaz-dev/dotfiles.git
-cd dotfiles
+git clone https://github.com/shifaz-dev/hyprland-noctalia-dotfiles.git
+cd hyprland-noctalia-dotfiles
 ./install.sh
 ```
 
