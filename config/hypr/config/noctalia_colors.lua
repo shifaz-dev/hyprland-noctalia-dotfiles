@@ -1,0 +1,15 @@
+-- Noctalia Vesper palette (Lua variables for hl.config())
+
+NCTL_PRIMARY          = "rgba(ffc799ff)"
+NCTL_ON_PRIMARY       = "rgba(000000ff)"
+NCTL_SECONDARY        = "rgba(99ffe4ff)"
+NCTL_ON_SECONDARY     = "rgba(000000ff)"
+NCTL_TERTIARY         = "rgba(fbadffff)"
+NCTL_ON_TERTIARY      = "rgba(000000ff)"
+NCTL_SURFACE          = "rgba(0c0c0cff)"
+NCTL_SURFACE_VARIANT  = "rgba(1c1c1cff)"
+NCTL_ON_SURFACE       = "rgba(ffffffff)"
+NCTL_ON_SURFACE_VARIANT = "rgba(a0a0a0ff)"
+NCTL_OUTLINE          = "rgba(505050ff)"
+NCTL_ERROR            = "rgba(ff8080ff)"
+NCTL_ON_ERROR         = "rgba(000000ff)"
